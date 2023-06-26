@@ -1,3 +1,3 @@
-| Latest Version | PowerShell Gallery | Issues | License | Discord |
+| Latest Version | Nuget Gallery | Issues | License | Discord |
 |-----------------|----------------|----------------|----------------|----------------|
 | [![Latest Version](https://img.shields.io/github/v/tag/RetrosheetPOSH/RetroSheet)](https://github.com/RetrosheetPOSH/RetroSheet/tags) | [![Nuget Gallery](https://img.shields.io/nuget/dt/RetroSheet)](https://www.nuget.org/packages/RetroSheet/) | [![GitHub issues](https://img.shields.io/github/issues/RetrosheetPOSH/RetroSheet](https://github.com/RetrosheetPOSH/RetroSheet/issues) | [![GitHub license](https://img.shields.io/github/license/RetrosheetPOSH/RetroSheet)](https://github.com/RetrosheetPOSH/RetroSheet/blob/main/LICENSE) | [![Discord Server](https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0b5493894cf60b300587_full_logo_white_RGB.svg)](https://discord.com/channels/1044305359021555793/1044305460729225227) |
